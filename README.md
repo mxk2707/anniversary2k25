@@ -1,1 +1,1 @@
-# anniversary2k25
+# anniversary-slideshow
